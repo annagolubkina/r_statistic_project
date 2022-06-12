@@ -2,7 +2,7 @@
 Данный датасет взят с Kaggle.com (https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
  Описание датасета: Этот набор данных состоит из оценок, полученных учащимися по различным предметам.
 Описание некоторых столбцов в наборе данных
-_gender-пол (муж/жен)
+_gender-пол (муж/жен)_
 race/ethnicity- раса/этническая принадлежность
 parental level of education- уровень образования родителей
 lunch - питание
